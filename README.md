@@ -10,14 +10,14 @@
 <br/>
 <br/>
 
-|Part-time Engineer in Karel Electronics | Researcher at METU Center for Image Analysis | Senior EE Student at METU |
+ Researcher at METU Center for Image Analysis | METU EE Graduate |
 
 ## About :sunglasses:
-I am a Senior Electrical Electronics Engineering Student at Middle East Technical University. Currently I am working at Karel. I am also a researcher at METU Center for Image Analysis. Check my page!
+I graduated from Electrical Electronics Engineering from Middle East Technical University. Currently I am researcher at METU Center for Image Analysis. Check my page!
 
 
 ## Technologies :fire:
-- Python
+- Python (Numpy, Pandas, Scikit Learn, Pytorch)
 - Java
 - Embedded Programming
 - Face Detection
