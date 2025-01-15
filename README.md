@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
- Researcher at METU Center for Image Analysis | METU EE Graduate |
+ Researcher at METU Center for Image Analysis | Senior METU EE Student |
 
 ## About :sunglasses:
 I graduated from Electrical Electronics Engineering from Middle East Technical University. Currently I am researcher at METU Center for Image Analysis. Check my page!
