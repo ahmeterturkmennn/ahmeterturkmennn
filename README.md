@@ -19,6 +19,7 @@ I graduated from Electrical Electronics Engineering from Middle East Technical U
 ## Technologies :fire:
 - Python (Numpy, Pandas, Scikit Learn, Pytorch)
 - Java
+- SQL
 - Embedded Programming
 - Face Detection
 - Object Detection
