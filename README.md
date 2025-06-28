@@ -10,10 +10,10 @@
 <br/>
 <br/>
 
- Researcher at METU Center for Image Analysis |  METU EE Alumni |
+ Researcher @ TUBITAK Bilgem İltaren| METU EE Graduate Student |  METU EE Alumni |
 
 ## About :sunglasses:
-I graduated from Electrical Electronics Engineering from Middle East Technical University. Currently I am researcher at METU Center for Image Analysis. Check my page!
+I am METU EE Graduate Student. Currently I am researcher @  TUBITAK Bilgem İltaren. I graduated from Electrical Electronics Engineering from Middle East Technical University. Check my page!
 
 
 ## Technologies :fire:
@@ -25,7 +25,8 @@ I graduated from Electrical Electronics Engineering from Middle East Technical U
 - Object Detection
 - Data Science
 - Signal Processing
-
+- C/C++
+- Matlab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
