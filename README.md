@@ -18,12 +18,10 @@ I am METU EE Graduate Student. Currently I am researcher @  TUBITAK Bilgem İlta
 
 ## Technologies :fire:
 - Python (Numpy, Pandas, Scikit Learn, Pytorch)
+- LLM
 - Java
 - SQL
-- Embedded Programming
 - Face Detection
-- Object Detection
-- Data Science
 - Signal Processing
 - C/C++
 - Matlab
