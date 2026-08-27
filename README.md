@@ -39,10 +39,6 @@ I am METU EE Graduate Student. Currently I am researcher @  TUBITAK Bilgem İlta
 ##  Contact Me For my CV and More :speech_balloon:
  [![Linkedin Badge](https://img.shields.io/badge/-ahmeterturkmen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmeterturkmen/)](https://www.linkedin.com/in/ahmeterturkmen/) [![Gmail Badge](https://img.shields.io/badge/-ahmeterturkmen2105@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmeterturkmen2105@gmail.com)](mailto:ahmeterturkmen2105@gmail.com) 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ahmeterturkmennn/count.svg" />
-</p>
 
 
 <div align="center">
