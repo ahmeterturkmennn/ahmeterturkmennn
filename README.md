@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/ahmeterturkmen/">Ahmet Ertürkmen</a> :smiley:
+ # <a href="https://www.linkedin.com/in/ahmeterturkmen/">Ahmet Ertürkmen</a> 
  
 <a href="https://linkedin.com/in/ahmeterturkmen">
   <img align="left" alt="Ahmet's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,11 +12,11 @@
 
  Researcher @ TUBITAK Bilgem İltaren| METU EE Graduate Student |  METU EE Alumni |
 
-## About :sunglasses:
+## About 
 I am METU EE Graduate Student. Currently I am researcher @  TUBITAK Bilgem İltaren. I graduated from Electrical Electronics Engineering from Middle East Technical University. Check my page!
 
 
-## Technologies :fire:
+## Technologies 
 - Python (Numpy, Pandas, Scikit Learn, Pytorch)
 - LLM
 - Java
